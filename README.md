@@ -1,1 +1,1 @@
-# goit-pythonweb-hw-02
+# Python Web Development HomeWork 2 - Docker
